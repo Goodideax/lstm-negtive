@@ -1,4 +1,4 @@
-#Experimental repository for LSTM
+# Experimental repository for LSTM
 The repository is for various experimental loss for the LSTM.
 This repository is modified from [https://github.com/ahmetumutdurmus/zaremba](https://github.com/ahmetumutdurmus/zaremba)
 
