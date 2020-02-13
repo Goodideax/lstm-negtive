@@ -2,7 +2,7 @@
 The repository is for various experimental loss for the LSTM.
 This repository is modified from [https://github.com/ahmetumutdurmus/zaremba](https://github.com/ahmetumutdurmus/zaremba)
 
-# Recurrent Neural Network Regularization by Zaremba et al. (2014).
+## Recurrent Neural Network Regularization by Zaremba et al. (2014).
 This repository contains the replication of "Recurrent Neural Network Regularization" by Zaremba et al. (2014).
 
 It is one of the earliest successful applications of Dropout on RNNs and had achieved state-of-the-art results on word-level language modeling task on Penn Treebank dataset back in its day. Its best single model, Large Regularized LSTM, achieves a test perplexity of ~78.4 after 55 epochs of training. 
